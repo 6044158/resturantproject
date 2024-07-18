@@ -1,0 +1,95 @@
+
+
+
+
+
+header h1{ 
+    color:#985e50;
+    align-items: center;
+    font-size:50px;
+    font-family: Montserrat, sans-serif;
+    
+    text-align: center;
+    
+}
+.line{
+    height:1px;
+    width: 100%;
+    background-color: #0b0b0b;
+
+}
+#headimg{
+    width: 100%;
+
+    
+}
+.ul{
+   display: flex; 
+   list-style-type: none;
+   float: right;
+   
+}
+.ul a{
+    margin-right: 10px;
+    text-decoration: none;
+
+}
+nav ul{
+    display:flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+    
+}
+nav ul a{
+    margin-right:  20px;
+    color: #0b0b0b;
+    text-decoration: none;
+    font-size: 40px;
+}
+nav ul a:hover{
+    color: #985e50;
+}
+
+.rechthoek{
+    background-color:white;
+    height: 30vh;
+    width: 70vh;
+    text-align: center;
+    padding: 10px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.rechthoek p,a{
+    font-size: 30px;
+    color: #0b0b0b;
+    text-decoration: none;
+
+}
+.rechthoek a {
+    padding: 2px;
+    color:  black;
+    ;
+}
+main section article a:hover{
+    color: white;
+    background-color:  #985e50;
+    padding: 1px;
+
+    
+}
+.headmenu{
+    position: relative;
+}
+
+
+
+
+
+
+
+
